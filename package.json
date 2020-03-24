@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miadugas/Employee-Tracker.git"
+    "url": "git+https://github.com/mesutsipar/Employee-Tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miadugas/Employee-Tracker/issues"
+    "url": "https://github.com/mesutsipar/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/miadugas/Employee-Tracker#readme",
+  "homepage": "https://github.com/mesutsipar/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.0.0",
